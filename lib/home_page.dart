@@ -144,7 +144,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   ),
                 ),
                 onPressed: () {
-                  pickImage();
+                  pickImageC();
                 },
                 child: const Text("Pick Image from Camera"),
               ),
